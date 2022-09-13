@@ -1,6 +1,8 @@
-### Hi Friends <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
-I'm Jaloliddin Yusupov 
-### My Linkedin Profile
-<a href="https://www.linkedin.com/in/jaloliddin-yusupov-a311481b6/" target="_black">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">  
-</a>
+<h1 align="center">Hi 👋, I'm Yusupov Jaloliddin</h1>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+
+- 🔭 I’m currently working on [Ecommerce](alimp.uz)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
