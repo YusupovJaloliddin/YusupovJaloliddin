@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusupov Jaloliddin</h1>
-<h3 align="center">I'm backend developer from Uzbekistan</h3>
+<h3 align="center">I am backend developer from Uzbekistan</h3>
 - 📫 How to reach me **yusupovjaloliddin4633@gmail.com**
 <p align="left">
 </p>
