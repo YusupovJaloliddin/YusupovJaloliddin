@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusupov Jaloliddin</h1>
 <h3 align="center">I am backend developer from Uzbekistan</h3>
-- 📫 How to reach me **yusupovjaloliddin4633@gmail.com**
-- telegram account @uzmu4633
-- phone number +998900629091
-- linkedn profile **https://www.linkedin.com/in/jaloliddin-yusupov-a311481b6/**
+- 📫 How to reach me **yusupovjaloliddin4633@gmail.com** </br>
+- telegram account (https://t.me/uzmu4633)</br>
+- phone number +998900629091</br>
+- linkedn profile **https://www.linkedin.com/in/jaloliddin-yusupov-a311481b6/**</br>
 <p align="left">
 </p>
 
