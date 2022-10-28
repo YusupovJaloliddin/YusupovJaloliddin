@@ -37,7 +37,7 @@
 &nbsp; <a href="https://www.facebook.com/jaloliddin.yusupov.9085/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/y_jaloliddin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/jaloliddin-yusupov-a311481b6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="yusupovjaloliddin4633@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://yusupovjaloliddin4633@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://t.me/uzmu4633" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="45"/></a>
   
 </p>
