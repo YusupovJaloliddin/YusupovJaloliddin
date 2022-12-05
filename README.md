@@ -34,3 +34,4 @@
 </p>
 <br>
 <hr>
+<a href="https://leetcode.com/YudupovJaloliddin" >![LeetCode Stats](https://leetcard.jacoblin.cool/YudupovJaloliddin?theme=wtf&font=K2D)</a>
