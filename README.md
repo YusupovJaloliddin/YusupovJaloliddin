@@ -11,7 +11,6 @@
 <br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: yusupovjaloliddin4633@gmail.com<br>
-- ⚡️ Fun fact: I use windows<br>
 - 📱 My phone number: +998900629091
 <br>
 <br>
