@@ -34,4 +34,4 @@
 <br>
 <hr>
 
-<a href="https://leetcode.com/YusupovJaloliddin" >![LeetCode Stats](https://leetcard.jacoblin.cool/YudupovJaloliddin?theme=wtf&font=K2D)</a>
+<a href="https://leetcode.com/YusupovJaloliddin" >![LeetCode Stats](https://leetcard.jacoblin.cool/YusupovJaloliddin?theme=wtf&font=K2D)</a>
